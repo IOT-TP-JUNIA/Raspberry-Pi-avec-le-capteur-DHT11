@@ -155,7 +155,3 @@ Date,Heure,Température (°C),Humidité (%)
 - **Fréquence de lecture:** 1 Hz (1 lecture/seconde max)
 - **Alimentation:** 3.3V à 5V
 - **Courant:** 0.3mA (mesure) / 60μA (veille)
-
-## 📄 Licence
-
-Projet libre d'utilisation pour usage personnel et éducatif.
